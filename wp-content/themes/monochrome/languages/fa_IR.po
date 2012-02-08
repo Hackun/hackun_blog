@@ -1,0 +1,496 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: monochrome\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-21 22:18+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: mehran <mn.mashreghi@gmail.com>\n"
+"Language-Team: monolab <mail@monolab.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: I:\\xampplite\\htdocs\\monochrome\n"
+"X-Poedit-SearchPath-0: wp-content\\themes\\monochrome\n"
+
+#: wp-content\themes\monochrome/archive.php:12
+#, php-format
+msgid "Archive for the &#8216;<span id=\"keyword\"> %s </span>&#8217; Category"
+msgstr "آرشیو برای &#8216;<span id=\"keyword\"> %s </span>&#8217; Category"
+
+#: wp-content\themes\monochrome/archive.php:15
+#, php-format
+msgid "Posts Tagged &#8216;<span id=\"keyword\"> %s </span>&#8217;"
+msgstr "نوشته برچسب شده &#8216;<span id=\"keyword\"> %s </span>&#8217;"
+
+#: wp-content\themes\monochrome/archive.php:18
+#: wp-content\themes\monochrome/archive.php:21
+#: wp-content\themes\monochrome/archive.php:24
+#, php-format
+msgid "Archive for <span id=\"keyword\">%s</span>"
+msgstr "آرشیو برای <span id=\"keyword\">%s</span>"
+
+#: wp-content\themes\monochrome/archive.php:18
+#: wp-content\themes\monochrome/comments.php:116
+#: wp-content\themes\monochrome/functions.php:381
+msgid "F jS, Y"
+msgstr ""
+
+#: wp-content\themes\monochrome/archive.php:21
+msgid "F, Y"
+msgstr ""
+
+#: wp-content\themes\monochrome/archive.php:24
+msgid "Y"
+msgstr ""
+
+#: wp-content\themes\monochrome/archive.php:27
+msgid "Author Archive"
+msgstr "آرشیو نویسنده"
+
+#: wp-content\themes\monochrome/archive.php:30
+msgid "Blog Archives"
+msgstr "آرشیو بلاگ"
+
+#: wp-content\themes\monochrome/archive.php:44
+#: wp-content\themes\monochrome/index.php:14
+#: wp-content\themes\monochrome/page-nocomment.php:19
+#: wp-content\themes\monochrome/page-noside-nocomment.php:16
+#: wp-content\themes\monochrome/page-noside.php:16
+#: wp-content\themes\monochrome/page.php:14
+#: wp-content\themes\monochrome/search.php:22
+#: wp-content\themes\monochrome/single.php:23
+msgid "Read more"
+msgstr "ادامه نوشته"
+
+#: wp-content\themes\monochrome/archive.php:51
+#: wp-content\themes\monochrome/index.php:22
+#: wp-content\themes\monochrome/search.php:29
+#: wp-content\themes\monochrome/single.php:31
+msgid "POSTED BY"
+msgstr "ارسال شده توسط"
+
+#: wp-content\themes\monochrome/archive.php:54
+#: wp-content\themes\monochrome/index.php:25
+#: wp-content\themes\monochrome/search.php:32
+#: wp-content\themes\monochrome/single.php:34
+msgid "CATEGORY"
+msgstr "موضوع"
+
+#: wp-content\themes\monochrome/archive.php:57
+#: wp-content\themes\monochrome/index.php:28
+#: wp-content\themes\monochrome/search.php:35
+#: wp-content\themes\monochrome/single.php:37
+msgid "<dt>TAGS</dt><dd>"
+msgstr "<dt>برچسب ها</dt><dd>"
+
+#: wp-content\themes\monochrome/archive.php:59
+#: wp-content\themes\monochrome/comments.php:39
+#: wp-content\themes\monochrome/index.php:30
+#: wp-content\themes\monochrome/search.php:37
+#: wp-content\themes\monochrome/single.php:39
+msgid "Write comment"
+msgstr "ارسال دیدگاه"
+
+#: wp-content\themes\monochrome/archive.php:59
+#: wp-content\themes\monochrome/index.php:30
+#: wp-content\themes\monochrome/search.php:37
+#: wp-content\themes\monochrome/single.php:39
+msgid "1 comment"
+msgstr "یک دیدگاه"
+
+#: wp-content\themes\monochrome/archive.php:59
+#: wp-content\themes\monochrome/index.php:30
+#: wp-content\themes\monochrome/search.php:37
+#: wp-content\themes\monochrome/single.php:39
+#, php-format
+msgid "% comments"
+msgstr "% دیدگاه"
+
+#: wp-content\themes\monochrome/archive.php:60
+#: wp-content\themes\monochrome/comments.php:117
+#: wp-content\themes\monochrome/index.php:31
+#: wp-content\themes\monochrome/page-nocomment.php:17
+#: wp-content\themes\monochrome/page-noside-nocomment.php:14
+#: wp-content\themes\monochrome/page-noside.php:14
+#: wp-content\themes\monochrome/page.php:12
+#: wp-content\themes\monochrome/search.php:38
+#: wp-content\themes\monochrome/single.php:40
+msgid "[ EDIT ]"
+msgstr "[ ویرایش  ]"
+
+#: wp-content\themes\monochrome/archive.php:70
+#: wp-content\themes\monochrome/index.php:41
+#: wp-content\themes\monochrome/page-nocomment.php:29
+#: wp-content\themes\monochrome/page-noside-nocomment.php:24
+#: wp-content\themes\monochrome/page-noside.php:23
+#: wp-content\themes\monochrome/page.php:24
+#: wp-content\themes\monochrome/search.php:46
+#: wp-content\themes\monochrome/single.php:48
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "درخواست شما یافت نشد."
+
+#: wp-content\themes\monochrome/archive.php:83
+#: wp-content\themes\monochrome/index.php:54
+#: wp-content\themes\monochrome/search.php:55
+msgid "Older Entries"
+msgstr "نوشته های قدیمی تر"
+
+#: wp-content\themes\monochrome/archive.php:84
+#: wp-content\themes\monochrome/index.php:55
+#: wp-content\themes\monochrome/search.php:56
+msgid "Newer Entries"
+msgstr "نوشته های جدیدتر"
+
+#: wp-content\themes\monochrome/comments.php:10
+#: wp-content\themes\monochrome/comments.php:19
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "این نوشته دارای کلمه عبور میباشد، برای مشاهده کلمه عبور را وارد فرمایید :"
+
+#: wp-content\themes\monochrome/comments.php:41
+msgid "Comments RSS"
+msgstr "RSS دیدگاه ها"
+
+#: wp-content\themes\monochrome/comments.php:46
+msgid "Trackback"
+msgstr "دنبالک"
+
+#: wp-content\themes\monochrome/comments.php:47
+#: wp-content\themes\monochrome/comments.php:50
+msgid "Comments"
+msgstr "دیدگاه ها"
+
+#: wp-content\themes\monochrome/comments.php:49
+msgid "Trackback are closed"
+msgstr "دنبالک ها لغو شده اند."
+
+#: wp-content\themes\monochrome/comments.php:78
+msgid "No comments yet."
+msgstr "هیچ دیدگاهی ارسال نگشته است."
+
+#: wp-content\themes\monochrome/comments.php:105
+msgid "TrackBack URL"
+msgstr "آدرس دنبالک"
+
+#: wp-content\themes\monochrome/comments.php:120
+msgid "Trackback from : "
+msgstr "دنبالک از :"
+
+#: wp-content\themes\monochrome/comments.php:126
+msgid "No trackbacks yet."
+msgstr "هیچ دنبالکی وجود ندارد."
+
+#: wp-content\themes\monochrome/comments.php:141
+msgid "Comment are closed."
+msgstr "دیدگاه ها لغو شده اند."
+
+#: wp-content\themes\monochrome/comments.php:156
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "برای ارسال دیدگاه باید <a href=\"%s\">وارد شوید در سایت</a>."
+
+#: wp-content\themes\monochrome/comments.php:175
+#: wp-content\themes\monochrome/comments.php:177
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "وارد شده با نام <a href=\"%1$s\">%2$s</a>."
+
+#: wp-content\themes\monochrome/comments.php:175
+#: wp-content\themes\monochrome/comments.php:177
+msgid "Log out of this account"
+msgstr "خروج از این اکانت"
+
+#: wp-content\themes\monochrome/comments.php:175
+msgid "[ Log out ]"
+msgstr "[ خروج ]"
+
+#: wp-content\themes\monochrome/comments.php:177
+msgid "Log out"
+msgstr "خروج"
+
+#: wp-content\themes\monochrome/comments.php:182
+msgid "NAME"
+msgstr "نام"
+
+#: wp-content\themes\monochrome/comments.php:182
+#: wp-content\themes\monochrome/comments.php:183
+msgid "( required )"
+msgstr "( ضروری )"
+
+#: wp-content\themes\monochrome/comments.php:183
+msgid "E-MAIL"
+msgstr "آدرس ایمیل"
+
+#: wp-content\themes\monochrome/comments.php:183
+msgid "- will not be published -"
+msgstr "- در دسترس عموم قرار نخواهد گرفت -"
+
+#: wp-content\themes\monochrome/comments.php:184
+msgid "URL"
+msgstr "آدرس URL"
+
+#: wp-content\themes\monochrome/comments.php:197
+msgid "Submit Comment"
+msgstr "ارسال دیدگاه"
+
+#: wp-content\themes\monochrome/footer.php:10
+msgid "Copyright &copy;&nbsp; "
+msgstr "کپی رایت &copy;&nbsp; "
+
+#: wp-content\themes\monochrome/functions.php:176
+msgid "Theme Options"
+msgstr "تنظیمات پوسته"
+
+#: wp-content\themes\monochrome/functions.php:184
+msgid "Theme options have been saved."
+msgstr "تنظیمات پوسته ذخیره گردید."
+
+#: wp-content\themes\monochrome/functions.php:190
+msgid "Monochrome option"
+msgstr "تنظیمات پوسته Monochrome"
+
+#: wp-content\themes\monochrome/functions.php:194
+#: wp-content\themes\monochrome/functions.php:295
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+#: wp-content\themes\monochrome/functions.php:198
+msgid "Select width of monochrome."
+msgstr "یک عرض برای قالب monochrome انتخاب فرمایید"
+
+#: wp-content\themes\monochrome/functions.php:200
+msgid "930px."
+msgstr ""
+
+#: wp-content\themes\monochrome/functions.php:201
+msgid "1000px"
+msgstr ""
+
+#: wp-content\themes\monochrome/functions.php:202
+msgid "1100px"
+msgstr ""
+
+#: wp-content\themes\monochrome/functions.php:207
+msgid "Check if you would like to use original image for logo instead of using plain text.<br />( Don't forget to upload image into, <strong>wp-content/themes/monochrome/img/</strong> )"
+msgstr ""
+
+#: wp-content\themes\monochrome/functions.php:208
+#: wp-content\themes\monochrome/functions.php:215
+#: wp-content\themes\monochrome/functions.php:224
+#: wp-content\themes\monochrome/functions.php:234
+#: wp-content\themes\monochrome/functions.php:241
+#: wp-content\themes\monochrome/functions.php:246
+#: wp-content\themes\monochrome/functions.php:262
+#: wp-content\themes\monochrome/functions.php:265
+#: wp-content\themes\monochrome/functions.php:268
+#: wp-content\themes\monochrome/functions.php:271
+#: wp-content\themes\monochrome/functions.php:274
+#: wp-content\themes\monochrome/functions.php:279
+#: wp-content\themes\monochrome/functions.php:292
+msgid "Yes"
+msgstr "بله"
+
+#: wp-content\themes\monochrome/functions.php:209
+msgid "Write your logo file name.<br />Example : <strong>logo.gif</strong>"
+msgstr "نوشتن نام لوگوی شما <br /> برای مثال : <strong>logo.gif</strong>"
+
+#: wp-content\themes\monochrome/functions.php:214
+msgid "Show Information on sidebar."
+msgstr "نمایش بخش اطلاعات در ستون کناری"
+
+#: wp-content\themes\monochrome/functions.php:216
+msgid "Information title."
+msgstr "عنوان بخش اطلاعات"
+
+#: wp-content\themes\monochrome/functions.php:218
+msgid "Information contents. ( HTML tag is available. )"
+msgstr "محتوای بخش اطلاعات (استفاده از تگ های HTML آزاد میباشد.)"
+
+#: wp-content\themes\monochrome/functions.php:223
+msgid "Show rss feed on sidebar."
+msgstr "نمایش rss feed در ستون کناری صفحه"
+
+#: wp-content\themes\monochrome/functions.php:228
+msgid "Position of search area on sidebar."
+msgstr "موقعیت جستجو در ستون کناری صفحه"
+
+#: wp-content\themes\monochrome/functions.php:230
+msgid "Top"
+msgstr "بالا"
+
+#: wp-content\themes\monochrome/functions.php:231
+msgid "Bottom"
+msgstr "پایین"
+
+#: wp-content\themes\monochrome/functions.php:233
+msgid "Use <a href=\"http://www.google.com/cse/\">Google Custom Search</a><br />(If you check this option,don't forget to write your Google Custom Search ID below.)"
+msgstr "استفاده کنید از <a href=\"http://www.google.com/cse/\">جستجو متفاوت گوگل</a><br />(جستجو متفاوت گوگل خود را فراموش نکنید. اگر شما از این گزینه استفاده می‌کنید، وارد کردن شناسه )"
+
+#: wp-content\themes\monochrome/functions.php:235
+msgid "Input your Google Custom Search ID."
+msgstr "شناسه جستجو متفاوت گوگل خود را وارد فرمایید."
+
+#: wp-content\themes\monochrome/functions.php:240
+msgid "Show tag list under search area."
+msgstr "نمایش لیست تگ در زیر جستجو"
+
+#: wp-content\themes\monochrome/functions.php:245
+msgid "Check if you would like to use Custom Navigation Menus in WordPress 3.0."
+msgstr "اگر تمایل به استفاده از Custom Navigation Menus در وردپرس 3.0. را دارید از این گزینه استفاده فرمایید."
+
+#: wp-content\themes\monochrome/functions.php:248
+msgid "Header menu."
+msgstr "منوی هدر"
+
+#: wp-content\themes\monochrome/functions.php:250
+msgid "Use pages for header menu."
+msgstr "استفاده از صفحات برای منوی هدر"
+
+#: wp-content\themes\monochrome/functions.php:251
+msgid "Use categories for header menu."
+msgstr "استفاده از موضوعات برای منوی هدر"
+
+#: wp-content\themes\monochrome/functions.php:253
+msgid "Exclude Pages (Page ID's you don't want displayed in your header navigation. Use a comma-delimited list, eg. 1,2,3)"
+msgstr ""
+
+#: wp-content\themes\monochrome/functions.php:255
+msgid "Exclude Categories (Category ID's you don't want displayed in your header navigation. Use a comma-delimited list, eg. 1,2,3)"
+msgstr ""
+
+#: wp-content\themes\monochrome/functions.php:261
+msgid "Show author name."
+msgstr "نمایش نام نویسنده."
+
+#: wp-content\themes\monochrome/functions.php:264
+msgid "Show border around image in post area."
+msgstr ""
+
+#: wp-content\themes\monochrome/functions.php:267
+msgid "Show bread crumb at single post page."
+msgstr ""
+
+#: wp-content\themes\monochrome/functions.php:270
+msgid "Show next preview post at the bottom of single post page."
+msgstr ""
+
+#: wp-content\themes\monochrome/functions.php:273
+msgid "Show tag."
+msgstr "نمایش تگ"
+
+#: wp-content\themes\monochrome/functions.php:278
+msgid "Show time on comment."
+msgstr "نمایش زمان در دیدگاه"
+
+#: wp-content\themes\monochrome/functions.php:283
+msgid "Page navi type."
+msgstr ""
+
+#: wp-content\themes\monochrome/functions.php:285
+msgid "Use Pager."
+msgstr ""
+
+#: wp-content\themes\monochrome/functions.php:286
+msgid "Use normal style next-previous link."
+msgstr ""
+
+#: wp-content\themes\monochrome/functions.php:291
+msgid "Check if you want to show Return top link."
+msgstr ""
+
+#: wp-content\themes\monochrome/functions.php:381
+msgid " g:ia"
+msgstr ""
+
+#: wp-content\themes\monochrome/functions.php:388
+#: wp-content\themes\monochrome/functions.php:390
+#: wp-content\themes\monochrome/functions.php:393
+msgid "REPLY"
+msgstr "پاسخ"
+
+#: wp-content\themes\monochrome/functions.php:395
+msgid "QUOTE"
+msgstr "نقل و قول"
+
+#: wp-content\themes\monochrome/functions.php:396
+msgid "EDIT"
+msgstr "ویرایش"
+
+#: wp-content\themes\monochrome/functions.php:402
+msgid "Your comment is awaiting moderation."
+msgstr "نوشته شما باید توسط مدیریت تأیید گردد."
+
+#: wp-content\themes\monochrome/header.php:6
+msgid " | "
+msgstr ""
+
+#: wp-content\themes\monochrome/header.php:62
+#: wp-content\themes\monochrome/single.php:10
+msgid "HOME"
+msgstr "صفحه اصلی"
+
+#: wp-content\themes\monochrome/search.php:10
+msgid "Search results for "
+msgstr "نتایج جستجو برای"
+
+#: wp-content\themes\monochrome/search.php:10
+msgid " hit"
+msgstr "بازدید"
+
+#: wp-content\themes\monochrome/sidebar.php:7
+msgid "Information"
+msgstr "اطلاعات"
+
+#: wp-content\themes\monochrome/sidebar.php:8
+msgid "Change this sentence and title from admin Theme option page."
+msgstr "متن و عنوان این قسمت را میتوانید در بخش مدیریت از قسمت تنظیمات پوسته ویرایش فرمایید."
+
+#: wp-content\themes\monochrome/sidebar.php:12
+msgid "Entries RSS"
+msgstr "RSS نوشته ها"
+
+#: wp-content\themes\monochrome/sidebar.php:12
+msgid "RSS FEED"
+msgstr ""
+
+#: wp-content\themes\monochrome/sidebar.php:23
+#: wp-content\themes\monochrome/sidebar.php:79
+msgid "Google Search"
+msgstr "جستجو گوگل"
+
+#: wp-content\themes\monochrome/sidebar.php:24
+#: wp-content\themes\monochrome/sidebar.php:32
+#: wp-content\themes\monochrome/sidebar.php:80
+#: wp-content\themes\monochrome/sidebar.php:88
+msgid "Search from this blog."
+msgstr "جستجو در این وبلاگ"
+
+#: wp-content\themes\monochrome/sidebar.php:31
+#: wp-content\themes\monochrome/sidebar.php:87
+msgid "Search"
+msgstr "جستجو"
+
+#: wp-content\themes\monochrome/sidebar.php:38
+#: wp-content\themes\monochrome/sidebar.php:94
+msgid "TAG LIST"
+msgstr "تگ ها"
+
+#: wp-content\themes\monochrome/sidebar.php:48
+msgid "Recent entry"
+msgstr "آخرین نوشته"
+
+#: wp-content\themes\monochrome/sidebar.php:58
+msgid "Archive"
+msgstr "آرشیو"
+
+#: wp-content\themes\monochrome/sidebar.php:65
+msgid "Category"
+msgstr "موضوع"
+
+#: wp-content\themes\monochrome/sidebar.php:75
+msgid "SEARCH"
+msgstr "جستجو"
+

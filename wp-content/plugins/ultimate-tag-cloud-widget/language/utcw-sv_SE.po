@@ -1,0 +1,1547 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Tag Cloud Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-29 00:23+0100\n"
+"PO-Revision-Date: 2011-12-29 00:24+0100\n"
+"Last-Translator: Rickard Andersson <rickard@montania.se>\n"
+"Language-Team: 0x539.se <rickard@0x539.se>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-Basepath: /Users/rickard/serversites/ultimate-tag-cloud-widget\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: SWEDEN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: /Users/rickard/serversites/ultimate-tag-cloud-widget\n"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.0/ultimate-tag-cloud-widget.php:41
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.1/ultimate-tag-cloud-widget.php:41
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:58
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:60
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:60
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/ultimate-tag-cloud-widget.php:89
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/ultimate-tag-cloud-widget.php:89
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:62
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:81
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:83
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:84
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:86
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:86
+msgid "Highly configurable tag cloud"
+msgstr "Ett mycket konfigurerbart taggmoln"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.0/ultimate-tag-cloud-widget.php:42
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.1/ultimate-tag-cloud-widget.php:42
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:59
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:61
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:61
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/ultimate-tag-cloud-widget.php:90
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/ultimate-tag-cloud-widget.php:90
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:63
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:82
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:84
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:85
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:87
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:87
+msgid "Ultimate Tag Cloud"
+msgstr "Ultimate Tag Cloud"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.0/ultimate-tag-cloud-widget.php:284
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.1/ultimate-tag-cloud-widget.php:287
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:323
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:475
+#, php-format
+msgid "%s topics"
+msgstr "%s ämnen"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.0/ultimate-tag-cloud-widget.php:332
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.1/ultimate-tag-cloud-widget.php:335
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:372
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:176
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:176
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:1
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:1
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:170
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:225
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:231
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:232
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:238
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:237
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:1
+msgid "Data"
+msgstr "Data"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.0/ultimate-tag-cloud-widget.php:333
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.1/ultimate-tag-cloud-widget.php:336
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:373
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:177
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:177
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:10
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:10
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:171
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:226
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:232
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:233
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:239
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:246
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:10
+msgid "Authors:"
+msgstr "Författare:"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.0/ultimate-tag-cloud-widget.php:339
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.1/ultimate-tag-cloud-widget.php:342
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:379
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:183
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:183
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:18
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:18
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:177
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:232
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:238
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:239
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:245
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:254
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:18
+msgid "Order:"
+msgstr "Ordning:"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.0/ultimate-tag-cloud-widget.php:341
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.1/ultimate-tag-cloud-widget.php:344
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:381
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:185
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:185
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:20
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:20
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:179
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:234
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:240
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:241
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:247
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:256
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:20
+msgid "Random"
+msgstr "Slumpvis"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.0/ultimate-tag-cloud-widget.php:343
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.1/ultimate-tag-cloud-widget.php:346
+msgid "Alphabetically"
+msgstr "Alfabetisk"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.0/ultimate-tag-cloud-widget.php:345
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.1/ultimate-tag-cloud-widget.php:348
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:391
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:195
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:195
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:30
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:30
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:189
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:244
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:250
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:251
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:257
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:266
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:30
+msgid "Count"
+msgstr "Antal"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.0/ultimate-tag-cloud-widget.php:347
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.1/ultimate-tag-cloud-widget.php:350
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:393
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:197
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:197
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:32
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:32
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:191
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:246
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:252
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:253
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:259
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:268
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:32
+msgid "Reverse order"
+msgstr "Omvänd ordning"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.0/ultimate-tag-cloud-widget.php:349
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.1/ultimate-tag-cloud-widget.php:352
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:397
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:201
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:201
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:38
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:38
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:195
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:250
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:256
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:257
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:263
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:274
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:38
+msgid "Taxonomy:"
+msgstr "Taxonomi:"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.0/ultimate-tag-cloud-widget.php:351
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.1/ultimate-tag-cloud-widget.php:354
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:399
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:203
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:203
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:197
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:252
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:258
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:259
+msgid "Post Tags"
+msgstr "Taggar"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.0/ultimate-tag-cloud-widget.php:352
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.1/ultimate-tag-cloud-widget.php:355
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:400
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:204
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:204
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:198
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:253
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:259
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:260
+msgid "Categories"
+msgstr "Kategorier"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.0/ultimate-tag-cloud-widget.php:355
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.1/ultimate-tag-cloud-widget.php:358
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:403
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:207
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:207
+msgid "Exclude:"
+msgstr "Exkludera"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.0/ultimate-tag-cloud-widget.php:360
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.1/ultimate-tag-cloud-widget.php:363
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:409
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:213
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:213
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:211
+msgid "Appearance"
+msgstr "Utseende"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.0/ultimate-tag-cloud-widget.php:361
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.1/ultimate-tag-cloud-widget.php:364
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:410
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:214
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:214
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:74
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:74
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:212
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:272
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:282
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:283
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:294
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:310
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:74
+msgid "Title:"
+msgstr "Titel"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.0/ultimate-tag-cloud-widget.php:364
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.1/ultimate-tag-cloud-widget.php:367
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:413
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:217
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:217
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:79
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:79
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:215
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:275
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:285
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:286
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:297
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:315
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:79
+msgid "Tag size (in px):"
+msgstr "Taggstorlek (i px):"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.0/ultimate-tag-cloud-widget.php:365
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.0/ultimate-tag-cloud-widget.php:386
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.1/ultimate-tag-cloud-widget.php:368
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.1/ultimate-tag-cloud-widget.php:389
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:414
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:435
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:218
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:239
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:218
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:239
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:80
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:105
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:80
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:105
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:216
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:237
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:276
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:297
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:286
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:307
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:287
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:308
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:298
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:319
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:316
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:341
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:80
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:105
+msgid "From"
+msgstr "Från"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.0/ultimate-tag-cloud-widget.php:367
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.0/ultimate-tag-cloud-widget.php:387
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.1/ultimate-tag-cloud-widget.php:370
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.1/ultimate-tag-cloud-widget.php:390
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:416
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:436
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:220
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:240
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:220
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:240
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:82
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:106
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:82
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:106
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:218
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:238
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:278
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:298
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:288
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:308
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:289
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:309
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:300
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:320
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:318
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:342
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:82
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:106
+msgid "to"
+msgstr "till"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.0/ultimate-tag-cloud-widget.php:370
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.1/ultimate-tag-cloud-widget.php:373
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:419
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:223
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:223
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:87
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:87
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:221
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:281
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:291
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:292
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:303
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:323
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:87
+msgid "Max tags:"
+msgstr "Max antal taggar:"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.0/ultimate-tag-cloud-widget.php:373
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.1/ultimate-tag-cloud-widget.php:376
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:422
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:226
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:226
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:92
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:92
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:224
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:284
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:294
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:295
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:306
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:328
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:92
+msgid "Coloring:"
+msgstr "Färgläggning:"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.0/ultimate-tag-cloud-widget.php:375
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.1/ultimate-tag-cloud-widget.php:378
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:424
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:228
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:228
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:94
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:197
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:246
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:94
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:197
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:246
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:226
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:286
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:360
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:408
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:296
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:370
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:418
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:297
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:371
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:419
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:308
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:384
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:432
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:330
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:422
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:471
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:94
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:197
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:246
+msgid "None"
+msgstr "Ingen"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.0/ultimate-tag-cloud-widget.php:377
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.1/ultimate-tag-cloud-widget.php:380
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:426
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:230
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:230
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:96
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:96
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:228
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:288
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:298
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:299
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:310
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:332
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:96
+msgid "Totally random"
+msgstr "Helt slumpat"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.0/ultimate-tag-cloud-widget.php:379
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.1/ultimate-tag-cloud-widget.php:382
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:428
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:232
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:232
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:98
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:98
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:230
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:290
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:300
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:301
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:312
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:334
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:98
+msgid "Random from preset values"
+msgstr "Slumpat mellan färger"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.0/ultimate-tag-cloud-widget.php:384
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.1/ultimate-tag-cloud-widget.php:387
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:433
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:237
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:237
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:103
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:103
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:235
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:295
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:305
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:306
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:317
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:339
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:103
+msgid "Spanning between values"
+msgstr "Utspritt mellan två färger"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.0/ultimate-tag-cloud-widget.php:390
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.1/ultimate-tag-cloud-widget.php:393
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:439
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:243
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:243
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:119
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:119
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:241
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:308
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:318
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:319
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:330
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:355
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:119
+msgid "Spacing (in px):"
+msgstr "Mellanrum (i px):"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.0/ultimate-tag-cloud-widget.php:391
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.1/ultimate-tag-cloud-widget.php:394
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:440
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:244
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:244
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:120
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:120
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:242
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:309
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:319
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:320
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:331
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:356
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:120
+msgid "Between letters:"
+msgstr "Mellan bokstäver:"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.0/ultimate-tag-cloud-widget.php:393
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.1/ultimate-tag-cloud-widget.php:396
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:442
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:246
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:246
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:122
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:122
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:244
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:311
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:321
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:322
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:333
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:358
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:122
+msgid "Between words:"
+msgstr "Mellan ord:"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.0/ultimate-tag-cloud-widget.php:396
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.1/ultimate-tag-cloud-widget.php:399
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:445
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:249
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:249
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:131
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:131
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:247
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:316
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:326
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:327
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:340
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:367
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:131
+msgid "Transform tags:"
+msgstr "Omvandla taggar:"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.0/ultimate-tag-cloud-widget.php:398
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.1/ultimate-tag-cloud-widget.php:401
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:447
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:251
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:251
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:133
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:133
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:249
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:318
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:328
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:329
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:342
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:369
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:133
+msgid "Off"
+msgstr "Inaktiverat"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.0/ultimate-tag-cloud-widget.php:400
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.1/ultimate-tag-cloud-widget.php:403
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:449
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:253
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:253
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:135
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:135
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:251
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:320
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:330
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:331
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:344
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:371
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:135
+msgid "To lowercase"
+msgstr "Till gemener"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.0/ultimate-tag-cloud-widget.php:402
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.1/ultimate-tag-cloud-widget.php:405
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:451
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:255
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:255
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:137
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:137
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:253
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:322
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:332
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:333
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:346
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:373
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:137
+msgid "To uppercase"
+msgstr "Till versaler"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.0/ultimate-tag-cloud-widget.php:404
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.1/ultimate-tag-cloud-widget.php:407
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:453
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:257
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:257
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:139
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:139
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:255
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:324
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:334
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:335
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:348
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:375
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:139
+msgid "Capitalize"
+msgstr "Stor begynnelsebokstav"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:383
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:187
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:187
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:22
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:22
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:181
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:236
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:242
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:243
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:249
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:258
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:22
+msgid "By name"
+msgstr "Efter namn"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:385
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:189
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:189
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:24
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:24
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:183
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:238
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:244
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:245
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:251
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:260
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:24
+msgid "By slug"
+msgstr "Efter slug"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:387
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:191
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:191
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:26
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:26
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:185
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:240
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:246
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:247
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:253
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:262
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:26
+msgid "By id"
+msgstr "Efter id"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:389
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:193
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:193
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:28
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:28
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:187
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:242
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:248
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:249
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:255
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:264
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:28
+msgid "By color"
+msgstr "Efter färg"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:395
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:199
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:199
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:34
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:34
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:193
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:248
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:254
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:255
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:261
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:270
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:34
+msgid "Case sensitive"
+msgstr "Skiftlägeskänsligt"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.2/ultimate-tag-cloud-widget.php:405
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3/ultimate-tag-cloud-widget.php:209
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:209
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:207
+msgid "Enter either the names or IDs of the tags you'd like to exclude."
+msgstr "Skriv antingen namn eller IDn på de taggar du vill exkludera"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:28
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/ultimate-tag-cloud-widget.php:28
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/ultimate-tag-cloud-widget.php:28
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:28
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:28
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:28
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:28
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:28
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:28
+msgid "Tag Cloud"
+msgstr "Taggmoln"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.1/ultimate-tag-cloud-widget.php:475
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/ultimate-tag-cloud-widget.php:644
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/ultimate-tag-cloud-widget.php:644
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:479
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:724
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:744
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:762
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:783
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:833
+#, php-format
+msgid "%s topic"
+msgstr "%s ämne"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:2
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:2
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:271
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:281
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:282
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:293
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:238
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:2
+msgid "Basic appearance"
+msgstr "Grundläggande utseende"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:3
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:3
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:239
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:3
+msgid "Advanced appearance"
+msgstr "Avancerat utseende"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:4
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:4
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:240
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:4
+msgid "Links"
+msgstr "Länkar"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:5
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:5
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:241
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:5
+msgid "Adv."
+msgstr "Avanc."
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:9
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:9
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:245
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:9
+msgid "Only posts from the selected authors will be used when calculating the tag cloud."
+msgstr "Endast inlägg skrivna av de valda författarna kommer att användas när molnet skapas."
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:17
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:17
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:253
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:17
+msgid "Which property of the tag should be used when determining the order of the tags in the cloud."
+msgstr "Vilken av taggens egenskap som ska användas när sorteringen av taggarna görs."
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:37
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:37
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:273
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:37
+msgid "Which taxonomy should be used in the cloud. You should be able to choose a custom taxonomy as well."
+msgstr "Vilken taxonomi som ska användas i molnet. Här ska även skräddarsydda taxonomier (custom taxonomies) vara med."
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:46
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:46
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:282
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:46
+msgid "Tagging pages is not a native feature of WordPress, you can use this feature together with the page tagger plugin"
+msgstr "Att tagga sidor är inte en standardfunktion i WordPress, du kan använda denna funktion tillsammans med pluginen page tagger"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:48
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:48
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:262
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:263
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:270
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:284
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:48
+msgid "Include tags from pages"
+msgstr "Inkludera taggar från sidor"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:51
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:51
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:287
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:51
+msgid "Only tags which have been used with this many posts will be visible in the cloud"
+msgstr "Bara taggar som har blivit använda i så här många ilägg kommer att visas i molnet."
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:52
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:52
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:203
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:258
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:268
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:269
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:276
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:288
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:52
+msgid "Tags with fewer posts than this will be automatically excluded."
+msgstr "Taggar med färre inlägg än detta kommer automatiskt att exkluderas."
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:52
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:52
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:201
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:256
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:266
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:267
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:274
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:288
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:52
+msgid "Minimum number of posts: "
+msgstr "Minsta antal inlägg:"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:56
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:56
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:292
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:56
+msgid "Only posts which are posted within this number of days will be used when generating the cloud"
+msgstr "Bara inlägg som blev publicerade inom såhär många dagar kommer att användas när molnet skapas."
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:57
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:57
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:280
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:293
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:57
+msgid "The maximum number of days back to search for posts, zero means every post."
+msgstr "Max antal dagar bakåt i tiden att söka efter inlägg, noll innebär alla inlägg."
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:57
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:57
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:278
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:293
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:57
+msgid "Posts max age:"
+msgstr "Inläggens maxålder:"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:61
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:61
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:267
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:277
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:278
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:289
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:297
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:61
+msgid "Choose either include or exclude above and enter a comma separated list of either the names or IDs of the tags you'd like to include/exclude."
+msgstr "Välj antingen inkludera eller exkludera ovan och fyll i en kommaseparerad lista av antingen namn eller ID nummer av de taggar du vill inkludera/exkludera."
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:63
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:63
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:261
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:271
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:272
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:283
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:299
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:63
+msgid "Include only ... "
+msgstr "Inkludera endast ..."
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:65
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:65
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:263
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:273
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:274
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:285
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:301
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:65
+msgid "Exclude ... "
+msgstr "Exclude ..."
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:67
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:67
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:265
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:275
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:276
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:287
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:303
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:67
+msgid "... these tags:"
+msgstr "... dessa taggar:"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:73
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:73
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:309
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:73
+msgid "The title is the text which is shown above the tag cloud."
+msgstr "Titeln är den text som visas ovanför taggmolnet"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:78
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:78
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:314
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:78
+msgid "The tag with the least number of posts will be the smallest, and the tag with the most number of posts will be the biggest."
+msgstr "Taggen med färst antal inlägg kommer att bli minst och taggen med flest antal inlägg kommer att bli störst."
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:86
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:86
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:322
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:86
+msgid "If the total number of tags exceeds this number, only this many tags will be shown in the cloud."
+msgstr "Om det totala antalet taggar överskrider detta antal, ta bara med såhär många taggar i molnet. "
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:91
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:91
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:327
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:91
+msgid "This setting controls how the tags are colored.<ul><li>Totaly random will choose between all the 16 million colors available.</li><li>Random from preset values will choose colors from a predefined set of colors</li><li>Spanning between values will calculate the corresponding color based upon how many posts each tag has, similar to how the size is calculated. The tag with the least number of posts will have the first color and the tag with the most number of posts will have the second color. All tags in between will have a color calculated between the first and the second color.</li></ul>The colors for the choice 'Random from preset values' has to be specified as a comma separated list."
+msgstr ""
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:113
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:113
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:349
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:113
+msgid "The title is the small (usually) yellow label which will appear when the user hovers the tag. Try to hover the text to the left to see an example of what a title text looks like."
+msgstr "Titeln är den lilla (vanligtvis) gula text som visas när användaren pekar på taggen. Prova att peka på texten till vänster för att se ett exempel på hur det ser ut."
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:115
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:115
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:306
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:316
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:317
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:328
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:351
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:115
+msgid "This is a title"
+msgstr "Detta är en titel"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:115
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:115
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:306
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:316
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:317
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:328
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:351
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:115
+msgid "Show title (hover text)"
+msgstr "Visa titel"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:118
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:118
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:354
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:118
+msgid "The spacing is a numerical value which controls how much space there is between letters, words, tags or rows. To use the default value for these settings just use the corresponding default value from the CSS specification: <ul><li>Letter spacing: normal</li><li>Word spacing: normal</li><li>Tag spacing (CSS margin): auto</li><li>Row spacing (CSS line height): inherit</li></ul>To use anything but the default values, just specify a number (the unit is pixels)."
+msgstr ""
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:124
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:124
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:313
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:323
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:324
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:335
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:360
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:124
+msgid "Between tags:"
+msgstr "Mellan taggar:"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:126
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:126
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:337
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:362
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:126
+msgid "Between rows:"
+msgstr "Mellan rader:"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:130
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:130
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:366
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:130
+msgid "The tags can be transformed in a number of different ways. lowercase, UPPERCASE or Capitalized."
+msgstr ""
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:142
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:142
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:142
+msgid "The tags can be surrounded by a prefix and/or suffix and separated with a separator. The default separator is just a space but can be changed to anything you'd like. Remember to add a space before and after the separator, this is not automatically added by the plugin.<br/><br/>A short example, these settings:<ul><li>Separator: &nbsp;-&nbsp; </li><li>Prefix: (</li><li>Suffix: )</li></ul>… would produce a tag cloud like this: <br/><br/>(first tag) - (second tag) - (third tag)<br/><br/>Prefix and suffix characters will have the same size and color as the tag, but the separator will not."
+msgstr ""
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:143
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:143
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:143
+msgid "Tag separators:"
+msgstr "Separatorer:"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:144
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:144
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:144
+msgid "Separator"
+msgstr "Separator"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:146
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:146
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:146
+msgid "Prefix"
+msgstr "Prefix"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:148
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:148
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:148
+msgid "Suffix"
+msgstr "Suffix"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:156
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:156
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:381
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:156
+msgid "The normal styles will apply to the tags when the user is <b>not</b> hovering the link."
+msgstr ""
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:158
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:158
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:383
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:158
+msgid "Yes or no will force the tag setting for the <u>underline</u> style, theme default will let the blog theme decide."
+msgstr ""
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:159
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:216
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:159
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:216
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:330
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:378
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:340
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:388
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:341
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:389
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:354
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:402
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:384
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:441
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:159
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:216
+msgid "Underline"
+msgstr "Understreck"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:161
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:171
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:181
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:218
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:226
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:234
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:161
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:171
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:181
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:218
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:226
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:234
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:332
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:340
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:348
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:380
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:388
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:396
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:342
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:350
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:358
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:390
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:398
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:406
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:343
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:351
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:359
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:391
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:399
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:407
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:356
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:364
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:372
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:404
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:412
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:420
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:386
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:396
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:406
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:443
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:451
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:459
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:161
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:171
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:181
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:218
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:226
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:234
+msgid "Yes"
+msgstr "Yes"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:163
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:173
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:183
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:220
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:228
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:236
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:163
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:173
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:183
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:220
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:228
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:236
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:334
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:342
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:350
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:382
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:390
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:398
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:344
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:352
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:360
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:392
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:400
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:408
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:345
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:353
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:361
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:393
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:401
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:409
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:358
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:366
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:374
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:406
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:414
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:422
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:388
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:398
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:408
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:445
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:453
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:461
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:163
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:173
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:183
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:220
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:228
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:236
+msgid "No"
+msgstr "Nej"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:165
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:175
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:185
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:222
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:230
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:238
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:165
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:175
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:185
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:222
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:230
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:238
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:336
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:344
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:352
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:384
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:392
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:400
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:346
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:354
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:362
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:394
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:402
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:410
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:347
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:355
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:363
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:395
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:403
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:411
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:360
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:368
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:376
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:408
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:416
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:424
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:390
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:400
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:410
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:447
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:455
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:463
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:165
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:175
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:185
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:222
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:230
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:238
+msgid "Theme default"
+msgstr "Följ temats standard"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:168
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:168
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:393
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:168
+msgid "Yes or no will force the tag setting for the <b>bold</b> style, theme default will let the blog theme decide."
+msgstr ""
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:169
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:224
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:169
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:224
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:338
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:386
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:348
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:396
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:349
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:397
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:362
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:410
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:394
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:449
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:169
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:224
+msgid "Bold"
+msgstr "Fetstilt"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:178
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:178
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:403
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:178
+msgid "Yes or no will force the tag setting for the <i>italic</i> style, theme default will let the blog theme decide."
+msgstr ""
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:179
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:232
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:179
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:232
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:346
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:394
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:356
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:404
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:357
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:405
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:370
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:418
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:404
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:457
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:179
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:232
+msgid "Italic"
+msgstr "Kursiv stil"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:188
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:188
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:413
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:188
+msgid "This setting will change the background color of <b>the link only</b>, not the whole cloud. The color has to be specified in hexadeximal format, like ffffff for white, 0000ff for blue or 000000 for black."
+msgstr ""
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:189
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:240
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:189
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:240
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:354
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:402
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:364
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:412
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:365
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:413
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:378
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:426
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:414
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:465
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:189
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:240
+msgid "Background color (hex value):"
+msgstr "Bakgrundsfärgen (hexadecimalt värde)"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:193
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:193
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:418
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:193
+msgid "This setting will change the border of <b>the link only</b>, not the whole cloud. <ul><li>The width of the border is a numerical value (in the unit pixels).</li><li>The color has to be specified in hexadeximal format, like ffffff for white, 0000ff for blue or 000000 for black.</li></ul>"
+msgstr ""
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:194
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:243
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:194
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:243
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:357
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:405
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:367
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:415
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:368
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:416
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:381
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:429
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:419
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:468
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:194
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:243
+msgid "Border"
+msgstr "Kantlinje"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:195
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:244
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:195
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:244
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:358
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:406
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:368
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:416
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:369
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:417
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:382
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:430
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:420
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:469
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:195
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:244
+msgid "Style: "
+msgstr "Stil:"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:198
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:247
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:198
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:247
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:361
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:409
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:371
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:419
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:372
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:420
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:385
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:433
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:423
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:472
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:198
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:247
+msgid "Dotted"
+msgstr "Prickig"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:199
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:248
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:199
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:248
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:362
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:410
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:372
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:420
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:373
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:421
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:386
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:434
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:424
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:473
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:199
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:248
+msgid "Dashed"
+msgstr "Streckad"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:200
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:249
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:200
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:249
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:363
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:411
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:373
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:421
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:374
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:422
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:387
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:435
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:425
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:474
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:200
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:249
+msgid "Solid"
+msgstr "Solid"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:201
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:250
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:201
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:250
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:364
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:412
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:374
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:422
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:375
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:423
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:388
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:436
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:426
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:475
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:201
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:250
+msgid "Double"
+msgstr "Dubbel"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:202
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:251
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:202
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:251
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:365
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:413
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:375
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:423
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:376
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:424
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:389
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:437
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:427
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:476
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:202
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:251
+msgid "Groove"
+msgstr "Groovy"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:203
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:252
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:203
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:252
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:366
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:414
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:376
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:424
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:377
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:425
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:390
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:438
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:428
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:477
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:203
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:252
+msgid "Ridge"
+msgstr "Räfflad"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:204
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:253
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:204
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:253
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:367
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:415
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:377
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:425
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:378
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:426
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:391
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:439
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:429
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:478
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:204
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:253
+msgid "Inset"
+msgstr "Infälld"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:205
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:254
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:205
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:254
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:368
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:416
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:378
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:426
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:379
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:427
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:392
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:440
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:430
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:479
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:205
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:254
+msgid "Outset"
+msgstr "Utfälld"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:208
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:257
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:208
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:257
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:371
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:419
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:381
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:429
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:382
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:430
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:395
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:443
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:433
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:482
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:208
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:257
+msgid "Width (in px):"
+msgstr "Bredd (i px):"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:211
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:260
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:211
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:260
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:374
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:422
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:384
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:432
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:385
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:433
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:398
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:446
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:436
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:485
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:211
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:260
+msgid "Color (hex value): "
+msgstr "Färg (hexadecimalt värde):"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:214
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:214
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:439
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:214
+msgid "The hover effects will only affect the style of the tag when the user hovers the tag. For details about each settings see the section above."
+msgstr ""
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:265
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:265
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:440
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:441
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:453
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:490
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:265
+msgid "This will add a &lt;-- HTML comment --&gt; to the output with some debugging information, please use this information when troubleshooting. You can find the debugging information by using 'view source' in your browser when viewing the page and searching for 'Ultimate Tag Cloud Debug information'"
+msgstr "Detta kommer att lägga till en &lt;-- HTML kommentar --&gt; till utskriften med felsökningsinformation, vänligen använd denna information om problem skulle uppstå. Du kan hitta informationen genom att använda \"visa källa\" i din webbläsare när du besöker sidan, och söka efter 'Ultimate Tag Cloud Debug information'"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.10/settings.php:267
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.11/settings.php:267
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:439
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:440
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:452
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.7/ultimate-tag-cloud-widget.php:492
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.8/settings.php:267
+msgid "Include debug output"
+msgstr "Inkludera felsökningsinformation"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.2/ultimate-tag-cloud-widget.php:205
+msgid "Exclude these tags:"
+msgstr "Exkludera dessa taggar:"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:304
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:314
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:315
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:326
+msgid "Adv. appearance"
+msgstr "Avancerat utseende"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.3/ultimate-tag-cloud-widget.php:328
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:338
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:339
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:352
+msgid "Link CSS styles"
+msgstr "Länkars CSS-stil"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.4/ultimate-tag-cloud-widget.php:263
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.5/ultimate-tag-cloud-widget.php:264
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/tags/1.3.6/ultimate-tag-cloud-widget.php:271
+msgid "Tagging pages is not a native feature of WordPress, you can use this feature together with the <a href=\"http://wordpress.org/extend/plugins/page-tagger/\" target=\"_blank\">page tagger plugin</a>"
+msgstr "Att tagga sidor är inte en standardfunktion i WordPress, du kan använda denna funktion tillsammans med pluginen <a href=\"http://wordpress.org/extend/plugins/page-tagger/\" target=\"_blank\">page tagger</a>"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/trunk/settings.php:243
+msgid "Font color (hex value):"
+msgstr "Textfärg (hexadecimalt värde):"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/trunk/settings.php:272
+msgid "This will save the current configuration which enables you to load this configuration at a later time. Check this box, choose a name in the text field below and press 'Save' to save the configuration."
+msgstr ""
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/trunk/settings.php:274
+msgid "Save configuration"
+msgstr "Spara konfiguration"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/trunk/settings.php:276
+msgid "This is the name which will be used for the current configuration if you check the option 'Save configuration' above. If the name is omitted the current date and time will be used."
+msgstr "Detta är namnet som komemr att användas för den nuvarande konfigurationen om du väljer valet 'Spara konfiguration' ovanför. Om du inte väljer något namn kommer nuvarande datum och tid att användas."
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/trunk/settings.php:277
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/trunk/settings.php:287
+msgid "Configuration name"
+msgstr "Konfigurationens namn"
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/trunk/settings.php:283
+msgid "This will load the selected configuration to the state which the widget was when the configuration was saved."
+msgstr "Detta kommer att ladda den valda konfigurationen till de inställningar som widgeten hade när konfigurationen sparades."
+
+#: /Users/rickard/serversites/ultimate-tag-cloud-widget/trunk/settings.php:285
+msgid "Load configuration"
+msgstr "Ladda konfiguration"
+
