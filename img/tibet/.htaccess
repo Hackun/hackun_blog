@@ -1,0 +1,9 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^image\.hackun\.me$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.image\.hackun\.me$
+RewriteRule ^/?$ "http\:\/\/hackun\.me" [R=301,L]
+
+RewriteCond %{HTTP_REFERER} !^$ [NC]
+RewriteCond %{HTTP_REFERER} !hackun.me [NC]
+RewriteRule .*.(jpg|gif|png|bmp|jpeg)$ forbid.png [R,NC,L]

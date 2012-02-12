@@ -8,8 +8,8 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /index.php [L]
 # rewrite *.css *.js to gzip_text.php
-RewriteRule ^(.*).js$ pathtoyourwebsite/gzip_text.php?file=$1.js [L]
-RewriteRule ^(.*).css$ pathtoyourwebsite/gzip_text.php?file=$1.css [L]
+#RewriteRule ^(.*).js$ pathtoyourwebsite/gzip_text.php?file=$1.js [L]
+#RewriteRule ^(.*).css$ pathtoyourwebsite/gzip_text.php?file=$1.css [L]
 
 </IfModule>
 
