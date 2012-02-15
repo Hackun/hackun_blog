@@ -11,8 +11,15 @@
       <div class="post_content_wrapper">
        <h2 class="post_title"><a href="<?php the_permalink() ?>"><?php the_title(); ?></a></h2>
        <div class="post_content">
-        <?php the_content(__('Read more', 'monochrome')); ?>
-        <?php wp_link_pages(); ?>
+	<p><?php
+		$my_content = strip_tags(get_the_excerpt(), $post->post_content);
+		$my_content = str_replace(array("\r\n", "\r", "\n", " ", "\t", "\o", "\x0B","\""),"",$my_content);
+
+		$my_content = mb_strimwidth($my_content, 0, 450, "......");
+		echo $my_content;
+	?></p>
+	<p class="read-more"><a href="<?php the_permalink(); ?>" rel="nofollow">Read More &raquo;</a></p>
+	<p class="tag-meta"><?php fublo_output_posh_tags($post->ID); ?></p>
        </div>
       </div>
       <dl class="post_meta">

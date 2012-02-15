@@ -408,3 +408,29 @@ function custom_comments($comment, $args, $depth) {
   </div>
 
 <?php } ?>
+<?php
+
+// add this function to your theme's functions.php or similar included file.
+
+/**
+ * Pass in the post_id (must be in the loop because of dependence on get_the_tags() )
+ * And it outputs the posh tags stuff...
+ */
+function fublo_output_posh_tags( $post_id )
+{
+        $post_tags = get_the_tags( $post_id );
+        if ( $post_tags )
+        {
+                foreach ( $post_tags as $single_tag )
+                {
+                        if ( $single_tag->count > 1 )
+                        {
+                                ?><a href='<?php echo get_tag_link( $single_tag->term_id ); ?>' class='tag' title='There are <?php echo $single_tag->count; ?> posts tagged "<?php echo $single_tag->name; ?>"'><?php echo $single_tag->name; ?></a><?php
+                        }
+                        else
+                        {
+                                ?><span class='tag' title='Only this post has the "<?php echo $single_tag->name; ?>" tag'><?php echo $single_tag->name; ?></span><?php
+                        }
+                }
+        }
+}
