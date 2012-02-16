@@ -106,7 +106,7 @@ object { display:block; margin:0 auto; }
 .post_content input { margin:5px 0; }
 
 /* post meta (left side of each post)  */
-.post_meta { font-size: 14px; text-align:right; line-height:160%; margin: 15px 0 0 0; }
+.post_meta { font-size: 14px; text-align:right; line-height:160%; margin: -5px 0 -24px 0; }
 .post_meta dt { color:#999; margin: 10px 0 1px 0; padding-top: 15px; background:url(img/dot1.gif) repeat-x top; }
 .post_meta dt.meta_date { padding:16px 0 5px 0; margin:0; background:none; }
 .post_meta a, .post_meta a:visited { color:#666; }
@@ -128,7 +128,7 @@ object { display:block; margin:0 auto; }
 #previous_next_post p { line-height:140%; margin:0; }
 
 /* ----- header_meta (for breadcrumb,archive,category,tag,search) ------------------------------------------------------------------------------- */
-#header_meta { width:580px; background:url(img/header_meta.gif) no-repeat right top; border-bottom:1px solid #dee3e6; padding:8px 15px; margin:-11px 0 -20px 150px; }
+#header_meta { width:580px; background:url(img/header_meta.gif) no-repeat right top; border-bottom:1px solid #dee3e6; padding:8px 15px; margin:-11px 0 0px 150px; }
 #header_meta ul#bread_crumb { margin:0; }
 #header_meta ul#bread_crumb li { display:inline; font-size:15px; margin:0; }
 #header_meta ul#bread_crumb li#bc_home, #header_meta ul#bread_crumb li#bc_cat { background:url(img/arrow5.gif) no-repeat right 4px; margin:0 6px 0 0; padding:0 15px 0 0; }
@@ -360,7 +360,7 @@ span.tag {
 	background: -ms-linear-gradient(top,  rgba(200,200,200,1) 0%,rgba(182,182,182,1) 100%);
 	background: linear-gradient(top,  rgba(200,200,200,1) 0%,rgba(182,182,182,1) 100%);
 }
-
+.tag-meta{margin-top:-12px; margin-bottom:-20px}
 a.tag {
 	border: 1px solid #99;
 	

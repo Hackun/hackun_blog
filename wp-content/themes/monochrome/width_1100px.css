@@ -7,7 +7,7 @@
 
 /* ----- left_col ------------------------------------------------------------------------------------------------------------------------------ */
 .post { background:url(img/width_1100px/post_line.gif) no-repeat left bottom; }
-.post_content_wrapper { width:680px; }
+.post_content_wrapper { width:680px; margin-top: -12px}
 .content_noside {width:680px; }
 
 /* next,previous post */
