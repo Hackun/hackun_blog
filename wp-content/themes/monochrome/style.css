@@ -221,14 +221,14 @@ object { display:block; margin:0 auto; }
 
 
 /* ----- header-menu (default color #f3193d) --------------------------------------------------------------------------------------------------------------------------- */
-.header_menu { float:right; display:inline; margin:20px 0 0 0; height:52px; background:url(img/header_menu_right.gif) no-repeat right top; }
+.header_menu { float: right;display: inline; margin:20px 0 0 0; height: 52px; background: none;}
 
-.menu { float:left; background:url(img/header_menu_left.gif) no-repeat left top; font-size: 16px; height:52px; margin:0; }
+.menu { float: left; background: none; font-size: 16px; height:52px; margin:0; }
 .menu, .menu ul { line-height:1; margin:0; padding:0; }
-.menu li { position:relative; float:left; border-left:1px solid #444; height:48px; margin:2px 0 0 0; z-index:10; }
+.menu li { position:relative; float:left; height:48px; margin: 2px 0 0 0; z-index:10; border: 1px solid transparent; border-radius: 5px;}
 .menu ul li { height:auto; border-left:none; padding:0; left:auto; margin:0; }
 .menu a:link, .menu a:visited { color:#999; display:block; padding: 15px 30px 10px; position:relative; }
-.menu a:hover { color:#33A8E5; text-decoration:none; background:#333; }
+.menu a:hover { color:#33A8E5; text-decoration:none; background:none; }
 .menu ul { position:absolute; top:48px; left:0; display:none; opacity:0; width:200px; }
 .menu ul ul { margin:0 0 0 189px; top:0; }
 
@@ -242,7 +242,7 @@ object { display:block; margin:0 auto; }
  .menu .current-menu-item ul a:link, .menu .current-menu-item ul a:visited,
   .menu ul .current-menu-item a:link, .menu ul .current-menu-item a:visited,
    .menu ul .current-menu-item ul a:link, .menu ul .current-menu-item ul a:visited
-   { color:#999; background:#282828; line-height:140%; padding:9px 28px 7px; border:1px solid #444; width: 132px; margin:-1px 0 0 0; }
+   { color:#999; background: none; line-height:140%; padding:9px 28px 7px; border: 1px solid transparent; width: auto; margin:-1px 0 0 0; border-radius: 5px;}
 
 .menu ul a:hover,
  .menu .current_page_item ul a:hover,
@@ -250,7 +250,7 @@ object { display:block; margin:0 auto; }
    .menu .current-menu-item ul a:hover,
 .menu .first_menu ul a:hover,
  .menu .last_menu ul a:hover
-   { color:#F3DC19; background:#333; }
+   { color:#F3DC19; background:none; }
 
 .menu .current_page_item,
  .menu .current-cat,
@@ -278,11 +278,11 @@ object { display:block; margin:0 auto; }
   { color:#f3193d; background:#333; }
 
 .menu .first_menu { border:none; background:none; }
-.menu .first_menu_active { background:url(img/header_menu_first_active.gif) no-repeat left top; border:none; }
+.menu .first_menu_active { background: none; border: 1px solid transparent; border-radius: 5px;}
 .menu .first_menu a:hover { background:url(img/header_menu_first_hover.gif) no-repeat left top; }
 .menu .last_menu { background:none; }
-.menu .last_menu_active { background:url(img/header_menu_last_active.gif) no-repeat right top; }
-.menu .last_menu a:hover { background:url(img/header_menu_last_hover.gif) no-repeat right top; }
+.menu .last_menu_active { background:none; }
+.menu .last_menu a:hover { background:none; }
 
 .menu ul .parent_menu > a:link, .menu ul .parent_menu > a:visited { background:#282828 url(img/arrow4.gif) no-repeat right 14px; }
 .menu ul .parent_menu > a:hover { background:#333 url(img/arrow4.gif) no-repeat right 14px; }
@@ -402,4 +402,3 @@ a.tag:hover {
 	background: -ms-linear-gradient(top, rgba(200,200,200,1) 0%,rgba(182,182,182,1) 100%);
 	background: linear-gradient(top,  rgba(200,200,200,1) 0%,rgba(182,182,182,1) 100%);
 }
-
