@@ -80,8 +80,10 @@ object { display:block; margin:0 auto; }
 
 .post_content p {line-height:160%;}
 .post h1, .post h2, .post h3, .post h4, .post h5, .post h6 { margin:0 0 15px 0; }
-.post_content a,.post_content a:visited { color:#2089cc; text-decoration:underline; }
-.post_content a:hover { color:#e2415b; }
+.post_content a,.post_content a:visited { text-decoration:underline; }
+.post_content a:hover { }
+.post_even .post_content_wrapper a:hover {color: #75E730;}
+.post_odd .post_content_wrapper a:hover {color: #33A8E5;}
 
 /* read more */
 .post_content a.more-link, .post_content a.more-link:visited 
