@@ -1,9 +1,9 @@
 /* ----- layout -------------------------------------------------------------------------------------------------------------------------------- */
 #wrapper { width:1100px; }
-#header { background:url(img/width_1100px/header.gif) no-repeat bottom; }
-#contents { background:url(img/width_1100px/side.gif) repeat-y; }
+#header { background:none; }
+#contents { background:none; }
 #left_col { float:left; display:inline; width:860px; }
-#footer { background:url(img/width_1100px/footer.gif) no-repeat top; }
+#footer { background:none; }
 
 /* ----- left_col ------------------------------------------------------------------------------------------------------------------------------ */
 .post { background:url(img/width_1100px/post_line.gif) no-repeat left bottom; }
