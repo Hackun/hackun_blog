@@ -434,3 +434,10 @@ function fublo_output_posh_tags( $post_id )
                 }
         }
 }
+
+	// thumbnail support
+  add_theme_support('post-thumbnails');
+  
+  if ( function_exists( 'add_image_size' ) ) {      
+		add_image_size( 'post-thumb', 120, 84, true );      
+}    

@@ -53,19 +53,14 @@
        </div>
       </div>
       <dl class="post_meta">
-        <dt class="meta_date"><?php the_time('Y') ?></dt>
+        <dt class="meta_date"></dt>
          <dd class="post_date"><?php the_time('m') ?><span>/<?php the_time('d') ?></span></dd>
-        <?php if ($options['author']) : ?>
-        <dt><?php _e('POSTED BY','monochrome'); ?></dt>
-         <dd><?php the_author_posts_link(); ?></dd>
-        <?php endif; ?>
-        <dt><?php _e('CATEGORY','monochrome'); ?></dt>
-         <dd><?php the_category('<br />'); ?></dd>
-        <?php if ($options['tag']) : ?>
-         <?php the_tags(__('<dt>TAGS</dt><dd>','monochrome'),'<br />','</dd>'); ?>
-        <?php endif; ?>
-        <dt class="meta_comment"><?php comments_popup_link(__('Write comment', 'monochrome'), __('1 comment', 'monochrome'), __('% comments', 'monochrome')); ?></dt>
-         <?php edit_post_link(__('[ EDIT ]', 'monochrome'), '<dd>', '</dd>' ); ?>
+        <dt></dt>
+        <?php if(has_post_thumbnail()): ?>
+       <a class="post-thumb" href="<?php the_permalink(); ?>" title="<?php the_title_attribute(); ?>" > <?php the_post_thumbnail('post-thumb'); ?> </a>
+       <?php endif; ?>
+         <dd></dd>
+        <dt><?php the_category('<br />'); ?></dt>
       </dl>
      </div>
     </div>

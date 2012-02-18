@@ -108,7 +108,7 @@ object { display:block; margin:0 auto; }
 .post_content input { margin:5px 0; }
 
 /* post meta (left side of each post)  */
-.post_meta { font-size: 14px; text-align:right; line-height:160%; margin: -5px 0 -24px 0; }
+.post_meta { font-size: 14px; text-align:right; line-height:160%; margin: -8px 0 -24px 0; }
 .post_meta dt { color:#999; margin: 10px 0 1px 0; padding-top: 15px; background:url(img/dot1.gif) repeat-x top; }
 .post_meta dt.meta_date { padding:16px 0 5px 0; margin:0; background:none; }
 .post_meta a, .post_meta a:visited { color:#666; }
