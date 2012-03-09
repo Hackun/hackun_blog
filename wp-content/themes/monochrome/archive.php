@@ -43,7 +43,7 @@
        <div class="post_content">
        	<p><?php
 		$my_content = strip_tags(get_the_excerpt(), $post->post_content);
-		$my_content = str_replace(array("\r\n", "\r", "\n", " ", "\t", "\o", "\x0B","\""),"",$my_content);
+		$my_content = str_replace(array("\r\n", "\r", "\n", "\t", "\o", "\x0B","\""),"",$my_content);
 
 		$my_content = mb_strimwidth($my_content, 0, 450, "......");
 		echo $my_content;
@@ -54,12 +54,15 @@
       </div>
       <dl class="post_meta">
         <dt class="meta_date"></dt>
-         <dd class="post_date"><?php the_time('m') ?><span>/<?php the_time('d') ?></span></dd>
+        <dd class="post_date"><?php the_time('m') ?><span>/<?php the_time('d') ?></span></dd>
+        <?php if(has_post_thumbnail()){ ?>
         <dt></dt>
-        <?php if(has_post_thumbnail()): ?>
-       <a class="post-thumb" href="<?php the_permalink(); ?>" title="<?php the_title_attribute(); ?>" > <?php the_post_thumbnail('post-thumb'); ?> </a>
-       <?php endif; ?>
-         <dd></dd>
+        <a class="post-thumb" href="<?php the_permalink(); ?>" title="<?php the_title_attribute(); ?>" > <?php the_post_thumbnail('post-thumb'); ?> </a> 
+        <?php } else {?>
+        <dt class="meta_date"><?php the_time('Y') ?></dt>
+        <dt><?php _e('POSTED BY','monochrome'); ?></dt>
+         <dd><?php the_author_posts_link(); ?></dd>
+        <?php } ?>
         <dt><?php the_category('<br />'); ?></dt>
       </dl>
      </div>
