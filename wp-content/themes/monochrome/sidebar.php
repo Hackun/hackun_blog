@@ -36,7 +36,7 @@
    <?php if ($options['tag_list']) : ?>
    <div id="tag_list" class="clearfix">
     <a href="javascript:void(0);" class="search_tag"><?php _e('TAG LIST','monochrome'); ?></a>
-    <?php wp_tag_cloud('smallest=11&largest=15&number=30&orderby=count&unit=px&format=list'); ?>
+    <?php wp_tag_cloud('smallest=13&largest=15&number=30&orderby=count&unit=px&format=list'); ?>
    </div>
    <?php endif; ?>
   </div>
