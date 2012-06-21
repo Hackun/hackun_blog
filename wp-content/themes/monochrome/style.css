@@ -99,11 +99,11 @@ object { display:block; margin:0 auto; }
 
 /* table */
 .post table { margin:0 0 1em 0; }
-.post td, .post th { border:1px solid #ccc; padding:15px; }
+.post td, .post th { border:1px solid #ccc; padding:5px; }
 .post th { background:#eee; font-weight:normal; }
 
 /* list */
-.post_content ul li { margin:0 0 1em 0; line-height:160%; background:url(img/bullet1.gif) no-repeat 3px 7px; padding:0 0 0 18px; }
+.post_content ul li { line-height:160%; background:url(img/bullet1.gif) no-repeat 3px 7px; padding:0 0 0 18px; }
 .post_content ol li { margin:0 0 1em 0; }
 .post_content input { margin:5px 0; }
 
